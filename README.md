@@ -31,7 +31,7 @@ These instructions will get you a copy of the project up and running on your loc
 1. Virtual Box - https://www.virtualbox.org/wiki/Download_Old_Builds_5_1
 2. Vagrant - https://www.vagrantup.com/downloads.html
 3. VM configuration -  You can use Github to fork and clone the repository https://github.com/udacity/fullstack-nanodegree-vm.
-4. newsdata.sql - You can find it in this repository. 
+4. newsdata.sql 
 
 ### Running
 Copy the *.sql to the vagrant news folder. 
